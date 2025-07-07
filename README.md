@@ -69,24 +69,6 @@ npm run build
 npm start
 \`\`\`
 
-## 📁 Project Structure
-
-\`\`\`
-portfolio-website/
-├── app/
-│   ├── globals.css          # Global styles and animations
-│   ├── layout.tsx           # Root layout component
-│   ├── loading.tsx          # Loading component
-│   └── page.tsx             # Main portfolio page
-├── components/
-│   └── ui/                  # ShadCN UI components
-├── public/
-│   └── Khushi_Bedmutha_Resume.pdf
-├── lib/
-│   └── utils.ts             # Utility functions
-└── README.md
-\`\`\`
-
 ### Resume
 Replace \`public/Khushi_Bedmutha_Resume.pdf\` with your own resume file.
 
